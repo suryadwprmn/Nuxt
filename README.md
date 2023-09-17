@@ -1,0 +1,2 @@
+# Nuxt
+Belajar nuxtjs
